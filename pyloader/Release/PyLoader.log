@@ -1,0 +1,11 @@
+﻿  dllmain.cpp
+C:\Users\petre\Desktop\dllmain.cpp(122,3): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\petre\Desktop\dllmain.cpp(123,3): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\petre\Desktop\dllmain.cpp(124,3): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\petre\Desktop\Release\PyLoader.dll) does not match the Linker's OutputFile property value (C:\Users\petre\Desktop\Release\PyLoader.mix). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1364,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.mix). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 220 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PyLoader.vcxproj -> C:\Users\petre\Desktop\Release\PyLoader.dll
